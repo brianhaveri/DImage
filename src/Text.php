@@ -127,7 +127,7 @@ class Text
                 // Hyphenate word as necessary
                 $lines = array_merge(
                     $lines,
-                    self::hyphenatedLines($word, $style_settings)
+                    self::hyphenatedLines($word, $style)
                 );
 
                 continue;
