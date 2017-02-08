@@ -1,7 +1,8 @@
 {
-	"name": "DImage",
-	"type": "Library",
+	"name": "brianhaveri/dimage",
+	"type": "library",
 	"description": "Create PNG, JPG, or GIF images with dynamic text",
+	"homepage": "https://github.com/brianhaveri/DImage",
 	"minimum-stability": "dev",
 	"version": "2.0.0",
 	"require": {
